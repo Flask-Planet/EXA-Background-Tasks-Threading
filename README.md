@@ -1,7 +1,8 @@
-# FAS-3-Package
-(FAS, Flask App Structure)
+# EX-Background-Tasks-Threading
 
-Contains a working example of a package Flask App
+(EX, Example)(FAS-3)
+
+Contains a working example of background tasks using threading
 
 ![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/cc_zero.svg)
 
@@ -19,7 +20,7 @@ Contains a working example of a package Flask App
 2. Open terminal and cd to the directory of the project.
 
 ```text
-cd /path/to/FAS-3-Package
+cd /path/to/EX-Background-Tasks-Threading
 ```
 
 3. Create a virtual environment and activate it.
@@ -43,7 +44,9 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
 python3 run.py
 ```
