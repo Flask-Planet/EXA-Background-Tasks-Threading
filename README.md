@@ -1,6 +1,6 @@
-# EX-Background-Tasks-Threading
+# EXA-Background-Tasks-Threading
 
-(EX, Example)(FAS-3)
+(EXA, Example)
 
 Contains a working example of background tasks using threading
 
