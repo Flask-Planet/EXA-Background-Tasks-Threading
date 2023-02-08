@@ -23,10 +23,10 @@ Viewing the source code of this project acknowledges that you have read and unde
 
 ```text
 # Linux
-cd /path/to/FAS-2-Split-Modules
+cd /path/to/EXA-Background-Tasks-Threading
 
 # Windows
-cd C:\path\to\FAS-2-Split-Modules
+cd C:\path\to\EXA-Background-Tasks-Threading
 ```
 
 ---
