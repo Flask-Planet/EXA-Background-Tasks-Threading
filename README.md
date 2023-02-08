@@ -2,13 +2,17 @@
 
 (EXA, Example)
 
-Contains a working example of background tasks using threading
-
-![](https://github.com/creativecommons/cc-assets/blob/main/license_badges/small/cc_zero.svg)
+Contains a working example of a form of background tasks using threading
 
 ### Attribution
 
 [CheeseCake87 (David Carmichael)](https://github.com/CheeseCake87)
+
+### License
+
+See: [LICENSE](LICENSE)
+
+Viewing the source code of this project acknowledges that you have read and understood the license.
 
 ### Setup
 
@@ -19,10 +23,10 @@ Contains a working example of background tasks using threading
 
 ```text
 # Linux
-cd /path/to/EXA-Background-Tasks-Threading
+cd /path/to/FAS-2-Split-Modules
 
 # Windows
-cd C:\path\to\EXA-Background-Tasks-Threading
+cd C:\path\to\FAS-2-Split-Modules
 ```
 
 ---
@@ -50,15 +54,16 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
-python3 run.py
+python3 app.py
 ```
 
 ---
 
 ### Windows
-
 
 **Create a virtual environment and activate it.**
 
@@ -81,7 +86,9 @@ pip install -r requirements.txt
 ```bash
 flask run
 ```
+
 or
+
 ```bash
-python run.py
+python app.py
 ```
